@@ -1,0 +1,8 @@
+com\mccurdy\robert\controllers\EndpointsController.class
+com\mccurdy\robert\controllers\VisitInfoController.class
+com\mccurdy\robert\model\Greeting.class
+com\mccurdy\robert\model\VisitInfo.class
+com\mccurdy\robert\RestServiceApplication.class
+com\mccurdy\robert\controllers\GreetingController.class
+com\mccurdy\robert\model\Endpoints.class
+com\mccurdy\robert\model\Visitor.class
